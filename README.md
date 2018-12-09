@@ -77,19 +77,19 @@ The capital flow of Wanda Group in the Year 2017
 ## 
 
 ## Light test
-
+We call this the light test for during the simulation of the small world model, it requires the installation of the **bioinformatics Toolbox**
 1. Before doing the test: Our network is randomly generated each time, so the specific result won't be the same. But you could find the similarities between results.
 2. Download all the files in **CODE**
-3. Open the MainFunction_For_Test.m 
+3. Open the Light_test.m 
 4. Follow the instructions there and run one section by section( It is strongly recommended to run in section to show all the files)
 5. It won't take long, maybe 3-10 minutes.
 
 ## 
 
 ## Full test
-
+We add the part of the small world procedure for the complete test.
 1. Through the light test, one could already get what we have all produced
 2. Download all the files in **CODE**
-3. Open the MainFunction_For_Test.m 
+3. Open the Full_test.m 
 4. Follow the instructions there and run one section by section( It is strongly recommended to run in section to show all the files)
 5. It won't take long, maybe 3-10 minutes.
