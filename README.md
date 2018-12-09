@@ -1,6 +1,6 @@
 # The characterization and application of network resilience under financial crisis
 
-> - Group Name: Lyceon
+> - Group Name: Eucatastrophe
 > - Group participants names: Yuan Cui, Yixi Li, Jingyi Liao
 > - Project Title:The characterization and application of network resilience under financial crisis
 > - Programming language: MATLAB
